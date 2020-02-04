@@ -1,0 +1,19 @@
+{
+  "name": "firstproject-dinfood",
+  "version": "1.0.0",
+  "description": "訂便當系統",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CI-YU/FirstProject-DinFood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CI-YU/FirstProject-DinFood/issues"
+  },
+  "homepage": "https://github.com/CI-YU/FirstProject-DinFood#readme"
+}
